@@ -1,1 +1,1 @@
-# Negosyo.com
+# negosyo.repo
