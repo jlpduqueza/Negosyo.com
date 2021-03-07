@@ -1,1 +1,1 @@
-# negosyo.repo
+# negosyo-repo
